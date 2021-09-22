@@ -1,0 +1,9 @@
+D:\ProjectU.App\ProjectU.App.Domain\bin\Debug\netstandard2.0\ProjectU.App.Domain.deps.json
+D:\ProjectU.App\ProjectU.App.Domain\bin\Debug\netstandard2.0\ProjectU.App.Domain.dll
+D:\ProjectU.App\ProjectU.App.Domain\bin\Debug\netstandard2.0\ProjectU.App.Domain.pdb
+D:\ProjectU.App\ProjectU.App.Domain\obj\Debug\netstandard2.0\ProjectU.App.Domain.csprojAssemblyReference.cache
+D:\ProjectU.App\ProjectU.App.Domain\obj\Debug\netstandard2.0\ProjectU.App.Domain.AssemblyInfoInputs.cache
+D:\ProjectU.App\ProjectU.App.Domain\obj\Debug\netstandard2.0\ProjectU.App.Domain.AssemblyInfo.cs
+D:\ProjectU.App\ProjectU.App.Domain\obj\Debug\netstandard2.0\ProjectU.App.Domain.csproj.CoreCompileInputs.cache
+D:\ProjectU.App\ProjectU.App.Domain\obj\Debug\netstandard2.0\ProjectU.App.Domain.dll
+D:\ProjectU.App\ProjectU.App.Domain\obj\Debug\netstandard2.0\ProjectU.App.Domain.pdb

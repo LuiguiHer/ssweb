@@ -1,0 +1,12 @@
+D:\ProjectU.App\ProjectU.App.Persistence\bin\Debug\netstandard2.1\ProjectU.App.Persistence.deps.json
+D:\ProjectU.App\ProjectU.App.Persistence\bin\Debug\netstandard2.1\ProjectU.App.Persistence.dll
+D:\ProjectU.App\ProjectU.App.Persistence\bin\Debug\netstandard2.1\ProjectU.App.Persistence.pdb
+D:\ProjectU.App\ProjectU.App.Persistence\bin\Debug\netstandard2.1\ProjectU.App.Domain.dll
+D:\ProjectU.App\ProjectU.App.Persistence\bin\Debug\netstandard2.1\ProjectU.App.Domain.pdb
+D:\ProjectU.App\ProjectU.App.Persistence\obj\Debug\netstandard2.1\ProjectU.App.Persistence.csprojAssemblyReference.cache
+D:\ProjectU.App\ProjectU.App.Persistence\obj\Debug\netstandard2.1\ProjectU.App.Persistence.AssemblyInfoInputs.cache
+D:\ProjectU.App\ProjectU.App.Persistence\obj\Debug\netstandard2.1\ProjectU.App.Persistence.AssemblyInfo.cs
+D:\ProjectU.App\ProjectU.App.Persistence\obj\Debug\netstandard2.1\ProjectU.App.Persistence.csproj.CoreCompileInputs.cache
+D:\ProjectU.App\ProjectU.App.Persistence\obj\Debug\netstandard2.1\ProjectU.App.Persistence.csproj.CopyComplete
+D:\ProjectU.App\ProjectU.App.Persistence\obj\Debug\netstandard2.1\ProjectU.App.Persistence.dll
+D:\ProjectU.App\ProjectU.App.Persistence\obj\Debug\netstandard2.1\ProjectU.App.Persistence.pdb
