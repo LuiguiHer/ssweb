@@ -13,9 +13,9 @@ namespace ProjectU.App.Persistence.AppRepositories
         {
             User= new List<User>()
             {
-                new User{id=1,Name="Jhon",LastName= "Gonzalez",Address= "cra 34",Phone= 310667895},
-                new User{id=1,Name="Camilo",LastName= "Perez",Address= "cra 85",Phone= 8756254},
-                new User{id=1,Name="Yesica",LastName= "Mendoza",Address= "cll 12",Phone= 3006594785}
+                new User{id=1,Name="Jhon",LastName= "Gonzalez",Address= "cra 34",Phone= "310667895"},
+                new User{id=2,Name="Camilo",LastName= "Perez",Address= "cra 85",Phone= "8756254"},
+                new User{id=3,Name="Yesica",LastName= "Mendoza",Address= "cll 12",Phone= "3006594785"}
  
             };
         }
