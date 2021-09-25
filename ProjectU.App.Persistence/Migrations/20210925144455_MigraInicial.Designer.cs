@@ -9,7 +9,7 @@ using ProjectU.App.Persistence;
 namespace ProjectU.App.Persistence.Migrations
 {
     [DbContext(typeof(AppContext))]
-    [Migration("20210916014722_MigraInicial")]
+    [Migration("20210925144455_MigraInicial")]
     partial class MigraInicial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -87,8 +87,8 @@ namespace ProjectU.App.Persistence.Migrations
                     b.Property<string>("Name")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("Phone")
-                        .HasColumnType("int");
+                    b.Property<string>("Phone")
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("id");
 
