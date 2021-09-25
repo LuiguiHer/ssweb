@@ -1,4 +1,13 @@
 ﻿@page
-@model ProjectU.App.Frontend.Pages.DetailsModel
+@model ProjectU.App.Frontend.Pages.DetailsUserModel
 @{
+    var User = Model.User;
 }
+ 
+<ul class="list-group list-group-flush">
+  <li class="list-group-item"> <b>id: </b> @User.id</li>
+  <li class="list-group-item"> <b>Name: </b> @User.Name</li>
+  <li class="list-group-item"> <b>LastName: </b> @User.LastName</li>
+  <li class="list-group-item"><b>Address: </b> @User.Address</li>
+  <li class="list-group-item"><b>phone: </b> @User.Phone</li>
+</ul>	
