@@ -19,9 +19,9 @@ namespace ProjectU.App.Frontend.Pages
             this.UserRepository=UserRepository;
        }
  
-        public IActionResult OnGet(int Userid)
+        public IActionResult OnGet(int UserId)
         {
-                User=UserRepository.GetUserWithId(Userid);
+                User=UserRepository.GetUserWithId(UserId);
                 return Page();
  
         }
