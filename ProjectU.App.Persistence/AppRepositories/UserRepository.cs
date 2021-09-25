@@ -1,9 +1,9 @@
  using System.Collections.Generic;
-using ProyectoCiclo3.App.Domain;
+using ProjectU.App.Domain;
 using System.Linq;
 using System;
  
-namespace ProyectoCiclo3.App.Persistence.AppRepositories
+namespace ProjectU.App.Persistence.AppRepositories
 {
     public class UserRepository
     {
